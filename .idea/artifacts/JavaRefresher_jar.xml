@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaRefresher:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaRefresher_jar</output-path>
+    <root id="archive" name="JavaRefresher.jar">
+      <element id="module-output" name="JavaRefresher" />
+    </root>
+  </artifact>
+</component>
